@@ -1,0 +1,30 @@
+h1{
+    color:green;
+    text-align: center;   
+}
+h2{
+    color: aqua;
+}
+a{
+    background-color:rgb(20, 167, 159);
+    text-decoration: none;
+    border: 2px solid black;
+    margin:0;
+    padding: 0;
+    border-radius:4px;
+    text-align: center ;
+}
+img{
+    margin-top: 10px;
+    width: 400px;
+    height:400px;
+
+}
+
+    
+
+    
+a:hover{
+    color:white;
+    background-color: red;
+}
